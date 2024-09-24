@@ -1,5 +1,3 @@
-# Zander Fishing Length Checker Program
-
 # Ask the fisher for the length of the zander
 try:
     zander_length = float(input("Enter the length of the zander in centimeters: "))
