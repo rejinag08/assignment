@@ -19,4 +19,4 @@ kilograms = int(total_grams // GRAMS_IN_KILOGRAM)  # Whole kilograms
 grams = total_grams % GRAMS_IN_KILOGRAM  # Remaining grams
 
 #print the result
-print(f"The weight in modern units: {kilograms} kilograms and {grams:.2f} grams.")
+print(f"The weight in modern units: {kilograms} kilogram

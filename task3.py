@@ -5,7 +5,7 @@ gender = input("Enter your biological gender (male/female): ").lower()
 
 # Ask for user's hemoglobin level
 try:
-    hemoglobin_level = float(input("Enter your hemoglobin level (g/L): "))
+ hemoglobin_level = float(input("Enter your hemoglobin level (g/L): "))
 
     # Check the gender and hemoglobin level
     if gender == "female":
@@ -24,5 +24,5 @@ try:
             print("Your hemoglobin level is high.")
     else:
         print("Invalid gender input.")
-except ValueError:
+except ValueError
     print("Invalid hemoglobin level. Please enter a numeric value.")
