@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88b0049c-8244-4b9c-a6ab-2bc572ad9208" name="Changes" comment="Pushing new file">
-      <change afterPath="$PROJECT_DIR$/.idea/task1.py" afterDir="false" />
+    <list default="true" id="88b0049c-8244-4b9c-a6ab-2bc572ad9208" name="Changes" comment="i have done my week 7 homework">
       <change afterPath="$PROJECT_DIR$/week5/week7/exercise1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/week7/week7/task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/week8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/week5/task2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,34 +44,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.assignment-1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task1 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.task1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task4 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.task4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.testGit.executor&quot;: &quot;Run&quot;,
-    &quot;Python.week4.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/regin/Desktop/python/Assignment&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.assignment-1.executor": "Run",
+    "Python.task1 (1).executor": "Run",
+    "Python.task1 (2).executor": "Run",
+    "Python.task1.executor": "Run",
+    "Python.task2.executor": "Run",
+    "Python.task3.executor": "Run",
+    "Python.task4 (1).executor": "Run",
+    "Python.task4.executor": "Run",
+    "Python.testGit.executor": "Run",
+    "Python.week4.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/regin/Desktop/python/Assignment",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\regin\Desktop\python\Assignment" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.task4 (1)">
+  <component name="RunManager" selected="Python.task1 (2)">
     <configuration name="task1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignment" />
       <option name="ENV_FILES" value="" />
@@ -100,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignment" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,12 +105,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4/task1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week7/task1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task1 (2)" />
         <item itemvalue="Python.task4 (1)" />
         <item itemvalue="Python.task1 (1)" />
         <item itemvalue="Python.testGit" />
         <item itemvalue="Python.task2" />
-        <item itemvalue="Python.task1" />
       </list>
     </recent_temporary>
   </component>
@@ -234,6 +230,7 @@
       <workItem from="1727182159829" duration="446000" />
       <workItem from="1727182625605" duration="301000" />
       <workItem from="1727709385989" duration="1282000" />
+      <workItem from="1730186802335" duration="1075000" />
     </task>
     <task id="LOCAL-00001" summary="week 2 homework">
       <option name="closed" value="true" />
@@ -315,7 +312,31 @@
       <option name="project" value="LOCAL" />
       <updated>1727182807718</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="i have done my week 7 homework">
+      <option name="closed" value="true" />
+      <created>1730184600245</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730184600245</updated>
+    </task>
+    <task id="LOCAL-00012" summary="i have done my week 7 homework">
+      <option name="closed" value="true" />
+      <created>1730184645372</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1730184645372</updated>
+    </task>
+    <task id="LOCAL-00013" summary="i have done my week 7 homework">
+      <option name="closed" value="true" />
+      <created>1730186895625</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1730186895625</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,7 +358,8 @@
     <MESSAGE value="week 4 homework task1" />
     <MESSAGE value="week 4 homework task1 &amp; task2" />
     <MESSAGE value="Pushing new file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pushing new file" />
+    <MESSAGE value="i have done my week 7 homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="i have done my week 7 homework" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Assignment$exercise1.coverage" NAME="exercise1 Coverage Results" MODIFIED="1729601362177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5/week7" />
@@ -345,12 +367,12 @@
     <SUITE FILE_PATH="coverage/Assignment$task3.coverage" NAME="task3 Coverage Results" MODIFIED="1726520718919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Assignment$task2.coverage" NAME="task2 Coverage Results" MODIFIED="1730182843841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5/week7/week7" />
     <SUITE FILE_PATH="coverage/Assignment$testGit.coverage" NAME="testGit Coverage Results" MODIFIED="1727179624351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/withMuath" />
-    <SUITE FILE_PATH="coverage/Assignment$task1__2_.coverage" NAME="task1 (2) Coverage Results" MODIFIED="1728025256768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5/week6" />
+    <SUITE FILE_PATH="coverage/Assignment$task1__2_.coverage" NAME="task1 (2) Coverage Results" MODIFIED="1730188853404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week7" />
     <SUITE FILE_PATH="coverage/Assignment$task1__1_.coverage" NAME="task1 (1) Coverage Results" MODIFIED="1730181761495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5/week7/week7" />
     <SUITE FILE_PATH="coverage/Assignment$task1.coverage" NAME="task1 Coverage Results" MODIFIED="1729597189639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5/week6/classwork" />
     <SUITE FILE_PATH="coverage/Assignment$task2__1_.coverage" NAME="task2 (1) Coverage Results" MODIFIED="1728024127893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5/week6" />
     <SUITE FILE_PATH="coverage/Assignment$week4.coverage" NAME="week4 Coverage Results" MODIFIED="1727044880817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Assignment$task4__1_.coverage" NAME="task4 (1) Coverage Results" MODIFIED="1727785129585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5" />
+    <SUITE FILE_PATH="coverage/Assignment$task4__1_.coverage" NAME="task4 (1) Coverage Results" MODIFIED="1730188825445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5" />
     <SUITE FILE_PATH="coverage/Assignment$task5.coverage" NAME="task5 Coverage Results" MODIFIED="1730182853399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5/week7/week7" />
     <SUITE FILE_PATH="coverage/Assignment$week8.coverage" NAME="week8 Coverage Results" MODIFIED="1729600583750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5" />
     <SUITE FILE_PATH="coverage/Assignment$task4.coverage" NAME="task4 Coverage Results" MODIFIED="1727159113003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4" />
