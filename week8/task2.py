@@ -25,7 +25,6 @@ car.accelerate(50)   # Increase speed by +50 km/h
 # Step 2: Print out the current speed
 print("Current Speed after accelerations:", car.current_speed, "km/h")
 
-# Step 3: Use an "emergency brake" by reducing speed by -200 km/h
 car.accelerate(-200)
 
 # Step 4: Print out the final speed
