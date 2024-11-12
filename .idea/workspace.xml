@@ -5,6 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88b0049c-8244-4b9c-a6ab-2bc572ad9208" name="Changes" comment="i have done my week 9 homework" />
+      <change afterPath="$PROJECT_DIR$/week5/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/task4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/week3/task4.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +76,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\regin\Desktop\python\Assignment" />
