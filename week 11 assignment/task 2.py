@@ -17,3 +17,4 @@ def get_weather(Municipality):
         print("Error fetching weather data. Please try again.")
 city = input("Enter a Municipality name: ").strip()
 get_weather(Municipality=city)
+#
